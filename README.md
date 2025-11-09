@@ -23,19 +23,28 @@
 ---
 
 ### 📊 GitHub Overview
+<h2 align="center">🌸 My GitHub Stats 🌸</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="160em" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" height="160em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mnhatrealz&show_icons=true&theme=synthwave&hide_border=true&border_radius=20" height="170em"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mnhatrealz&layout=compact&theme=synthwave&hide_border=true&border_radius=20" height="170em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mnhatrealz&theme=maroongold&hide_border=true&border_radius=20" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mnhatrealz&theme=rose_pine&no-frame=true&margin-w=15&row=1" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mnhatrealz&theme=tokyo-night-pink&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff9ff3&height=100&section=footer" />
+</p>
 
 ---
 
