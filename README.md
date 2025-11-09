@@ -1,9 +1,8 @@
-<!-- 🌸 ANIME CAT GITHUB PROFILE 🌸 -->
 <p align="center">
-  <img src="https://i.imgur.com/L4nP0h3.gif" width="100%" alt="anime cat banner"/>
+  <img src="https://media.tenor.com/TmRlYzU4RVEAAAAC/cute-cat.gif" width="100%" alt="anime cat banner"/>
 </p>
 
-<h1 align="center">🐾 Hi there! I'm <span style="color:#ff9ff3;">Mnhatrealz</span> 🩷</h1>
+<h1 align="center">🐾 Hi there! I'm <b>Mnhatrealz</b> 🩷</h1>
 <h3 align="center">A cute coder who loves Lua, HTML & cats 🐱✨</h3>
 
 ---
@@ -30,21 +29,21 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=maroongold&hide_border=true&border_radius=20" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mnhatrealz&theme=maroongold&hide_border=true&border_radius=20" />
 </p>
 
 ---
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=rose_pine&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mnhatrealz&theme=rose_pine&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
 
 ### 🐈‍⬛ Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night-pink&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mnhatrealz&theme=tokyo-night-pink&area=true&hide_border=true" />
 </p>
 
 ---
