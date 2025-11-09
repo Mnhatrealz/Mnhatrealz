@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/L4nP0h3.gif" width="100%" alt="anime cat banner"/>
 </p>
 
-<h1 align="center">🐾 Hi there! I'm <span style="color:#ff9ff3;">USERNAME</span> 🩷</h1>
+<h1 align="center">🐾 Hi there! I'm <span style="color:#ff9ff3;">Mnhatrealz</span> 🩷</h1>
 <h3 align="center">A cute coder who loves Lua, HTML & cats 🐱✨</h3>
 
 ---
