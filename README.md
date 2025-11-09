@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">🐾 <span style="color:#ff6ec7;">Hello, I'm Mnhatrealz</span> 🩷</h1>
-<h3 align="center">💻 Hacker cute & anime cat coder | Lua, HTML & JS 🐱✨</h3>
+<h3 align="center">💻 Skill | Lua, HTML & JS 🐱✨</h3>
 
 ---
 
