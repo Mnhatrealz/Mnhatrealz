@@ -1,18 +1,25 @@
-<!-- 🌌 CYBER KITTY THEME -->
+<!-- 
+Mnhatrealz secret info:
+💻 Coder: Lua, HTML, JS
+🐱 Loves cats & anime aesthetic
+⚡ Motto: "Code like a kitty, shine like neon"
+-->
+
+<!-- 🌌 CYBER KITTY BANNER -->
 <p align="center">
   <img src="https://media.tenor.com/z3P_QpBzBr0AAAAC/cat-computer.gif" width="100%" alt="cyber cat banner"/>
 </p>
 
-<h1 align="center">🐾 <span style="color:#ff6ec7;">Hello, I'm Mnhatrealz</span> 🩷</h1>
-<h3 align="center">💻 Skill | Lua, HTML & JS 🐱✨</h3>
+<h1 align="center">🐾 <b>Hello, I'm Mnhatrealz</b> 🩷</h1>
+<h3 align="center">💻 Skill | 🐱✨ 👾 💖 🌌</h3>
 
 ---
 
-### 🖤 About Me
-- 🐈‍⬛ Coding in **Lua**, **HTML**, **JavaScript**  
-- 🌌 Building **Roblox tools** & **neon web UI**  
-- 💖 Love **anime, cats, and cyber aesthetic**  
-- ⚡ Motto: *“Code like a kitty, shine like neon”*
+### 🖤 About Me (Emoji Hidden Version)
+- 🐈‍⬛ 💻 🐱 JS & Lua & HTML  
+- 🌌 🛠️ Roblox tools & neon web UI  
+- 💖 🐾 Anime & cyber aesthetic  
+- ⚡ ✨ "Code like a kitty, shine like neon"
 
 ---
 
