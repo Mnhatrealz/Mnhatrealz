@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wbmx</h1>
+<h1 align="center">Hi 👋, I'm Minh Nhat</h1>
 <h3 align="center">Lua & Web Developer | Roblox & Frontend Dev</h3>
 
 <p align="center">
@@ -32,9 +32,9 @@
 
 ### 💬 Connect with Me
 <p align="center">
-  <a href="https://discord.gg/"><img src="https://skillicons.dev/icons?i=discord" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://discord.gg/mnhat_2"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <a href="mailto:tnhat08232@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/Mnharealz"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
