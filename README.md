@@ -22,11 +22,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Overview
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wbmxdev&show_icons=true&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wbmxdev&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="160em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" height="160em" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&no-frame=true&margin-w=10" />
+</p>
+
 
 ---
 
