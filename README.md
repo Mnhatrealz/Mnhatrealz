@@ -11,7 +11,7 @@
 
 ## 🖤 About Me
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=200&lines=🐱+Neon+Cyber+Cat+Coder;⚡+Lua,+HTML,+JS"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=200&lines=🐱+My+Skill⚡+Lua,+HTML,+JS"/>
 </div>
 
 <div align="center">
@@ -57,7 +57,7 @@
 
 ## 🌟 Fun / Inspirational Section
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=✨+“✨;🇻🇳+Vietnam+Developer+ON+TOP+🔥"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Mnhatrealz✨;🇻🇳+Vietnam+Developer+ON+TOP+🔥"/>
 </div>
 
 ---
