@@ -4,14 +4,14 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=1000&color=FF6EC7&center=true&vCenter=true&width=800&lines=🐾+Xin+chào!+Tôi+là+Mnhatrealz;💻+Coder+Lua,+HTML+JS+Cyber+Kitty;🌌+Cyber+Neon+Vibes+On+GitHub!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=1000&color=FF6EC7&center=true&vCenter=true&width=800&lines=🐾+Xin+chào!+I+Am+Mnhatrealz;💻+Coder+Lua,+HTML+JS"/>
 </div>
 
 ---
 
 ## 🖤 About Me
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=200&lines=🐱+Neon+Cyber+Cat+Coder;⚡+Lua,+HTML,+JS;💖+Anime+&+Cyber+Vibes;🌌+Building+Roblox+tools+&+Neon+Web+UI"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=200&lines=🐱+Neon+Cyber+Cat+Coder;⚡+Lua,+HTML,+JS"/>
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@
 
 ### 🧩 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,html,css,js,python,github,vscode,nodejs,roblox" />
+  <img src="https://skillicons.dev/icons?i=lua,html,css,js,python,github,vscode,nodejs," />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 
 ## 🌟 Fun / Inspirational Section
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=✨+“Code+like+a+kitty,+shine+like+neon”+✨;🇻🇳+Vietnam+Developer+ON+TOP+🔥;💻+Cyber+Kitty+Coding+Vibes"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=✨+“✨;🇻🇳+Vietnam+Developer+ON+TOP+🔥"/>
 </div>
 
 ---
