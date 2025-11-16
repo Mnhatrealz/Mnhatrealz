@@ -11,7 +11,7 @@
 
 ## 🖤 About Me
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=200&lines=🐱+My+Skill⚡+Lua,+HTML,+JS"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=200&lines=🐱+My+Skill⚡+Lua,+HTML,+JS+DeoCoSkill:)"/>
 </div>
 
 <div align="center">
