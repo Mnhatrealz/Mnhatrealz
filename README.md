@@ -68,17 +68,73 @@
     <img src="https://user-images.githubusercontent.com/74038190/212284109-161aa473-300d-11ed-91a4-44a707765984.gif" width="100%">
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/u48zKxY7G5W61ZJ6eY/giphy.gif" width="100%" style="border-radius: 10px; border: 2px solid #50FA7B;"/>
+</div>
 
-### 🏆 Achievements Unlocked
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mnhatrealz&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&row=1&bg_color=0d1117" />
-</p>
-
-<br/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&duration=2000&pause=1000&color=50FA7B&center=true&vCenter=true&width=800&lines=SYSTEM+BOOT...+Mnhatrealz;STATUS:+ONLINE;MODE:+HARDCORE+CODER" />
+</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=1000&color=FF5555&center=true&vCenter=true&multiline=true&width=800&height=80&lines=🇻🇳+Mnhatrealz+Server+Online;THANKS+FOR+VISITING!"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-11ed-9695-db2bb096577b.gif" width="80%">
 </div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/Mnhatrealz">
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=22&duration=3000&pause=1000&color=F8F8F2&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=>>+SELECT+CHARACTER:+Mnhatrealz;>>+CLASS:+Web+Developer+%2F+Scripter;>>+LOCATION:+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hsu5i3UXoxNMqX917X/giphy.gif" width="50" style="vertical-align: bottom"/>
+  <img src="https://skillicons.dev/icons?i=lua,html,css,js,python,nodejs,github,vscode&theme=dark" style="vertical-align: bottom"/>
+  <img src="https://media.giphy.com/media/hsu5i3UXoxNMqX917X/giphy.gif" width="50" style="vertical-align: bottom; transform: scaleX(-1);"/>
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iGM4eI938Jb0yXoW9c/giphy.gif" width="30"/>
+  BATTLE STATISTICS
+  <img src="https://media.giphy.com/media/iGM4eI938Jb0yXoW9c/giphy.gif" width="30"/>
+</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=30&section=footer&text=👾👾👾&fontSize=20&fontColor=50FA7B&fontAlign=50&fontAlignY=50" style="border-top: 3px solid #50FA7B;"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mnhatrealz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=50FA7B&icon_color=F1FA8C&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnhatrealz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=50FA7B&text_color=c9d1d9" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mnhatrealz&theme=radical&hide_border=true&background=0D1117&ring=50FA7B&fire=FF5555&currStreakNum=F8F8F2" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🏆 ACHIEVEMENT UNLOCKED</h2>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mnhatrealz&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-300d-11ed-91a4-44a707765984.gif" width="100%">
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=4000&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=THANKS+FOR+VISITING;GAME+OVER" />
+</div>
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%"/>
 </p>
