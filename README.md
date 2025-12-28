@@ -37,8 +37,9 @@
 
 ## 📦 GAME STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mnhatrealz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnhatrealz&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mnhatrealz&show_icons=true&theme=dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnhatrealz&layout=compact&theme=dark&cache_seconds=1800" />
+
 </p>
 
 <p align="center">
@@ -49,7 +50,7 @@
 
 ## 🏆 ACHIEVEMENTS (UNLOCKED)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mnhatrealz&theme=onestar&no-frame=true&margin-w=10&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mnhatrealz&theme=darkhub&no-frame=true&row=1" />
 </p>
 
 ---
