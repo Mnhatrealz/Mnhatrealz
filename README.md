@@ -17,9 +17,9 @@
 
 ### 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **React, Next.js & TypeScript**
-- 👯 I’m looking to collaborate on **open source frontend projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Java**
+- 🌱 I’m currently learning **React, Next.js & TypeScript & Lua & Rust,...**
+- 👯 I'm developing a script called Neon X Hub and many other projects.**
+- 💬 Ask me about HTML, CSS, JavaScript, Python, Java, but only one answer**
 - ⚡ Fun fact **I think I'm funny 😄**
 
 <br clear="right"/>
